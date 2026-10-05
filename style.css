@@ -2,8 +2,18 @@ body{
 text-align: center;
 background-color: #444444;
 color: #FFFFFF;
+border: solid #808080 3px;
+}
+
+footer{
+    text-align: left;
 }
 
 a {
-    color: green;
+    color: #008000;
+}
+
+p{
+    line-height: 35px;
+    padding: 0 10px;
 }
